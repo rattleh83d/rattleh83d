@@ -18,3 +18,6 @@ Tools developed for a media-organisation workflow at Zhastar Üni: photo groupin
 
 Current interests: mathematical modelling, algorithms, actuarial science, and data science.
 
+hope u find these useful! 
+
+
